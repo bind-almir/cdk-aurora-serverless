@@ -4,4 +4,10 @@ import cdk = require('@aws-cdk/core');
 import { CdkAuroraServerlessStack } from '../lib/cdk-aurora-serverless-stack';
 
 const app = new cdk.App();
-new CdkAuroraServerlessStack(app, 'CdkAuroraServerlessStack');
+
+new CdkAuroraServerlessStack(app, 'CdkAuroraServerlessStack', {
+  env: {
+    region: process.env.region,
+    account: process.env.account 
+  }
+});
