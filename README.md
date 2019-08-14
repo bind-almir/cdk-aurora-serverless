@@ -1,7 +1,6 @@
-**How to Create Serverless Aurora instance with AWS CDK**
+**How to Create Serverless Aurora cluster with AWS CDK**
 
-Read more [here](https://www.almirzulic.com/2019/07/03/how-to-handle-email-bounces-on-aws-ses/).
-
+Read more [here](https://www.almirzulic.com/2019/08/14/create-serverless-aurora-instance-with-cdk/).
 
 ### Instructions 
 
