@@ -1,6 +1,6 @@
 **How to Create Serverless Aurora cluster with AWS CDK**
 
-Read more [here](https://www.almirzulic.com/2019/08/14/create-serverless-aurora-cluster-with-cdk/).
+Read more [here](https://almirzulic.com/posts/create-serverless-aurora-cluster-with-cdk/).
 
 ### Instructions 
 
